@@ -1,0 +1,12 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code (PlatformIO regenerates these)
+.vscode/
+
+# misc
+*.bin
+*.elf
+.DS_Store
